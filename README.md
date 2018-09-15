@@ -1,8 +1,6 @@
 # Competition
 
-В файлах немного измененная прорисовка формы
-Form1.Designer.cs
-Form1.resx
+В файлах: "Form1.Designer.cs", "Form1.resx" немного измененная прорисовка формы
 
 # Сделано, но сыро:
 <pre>
