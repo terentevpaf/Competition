@@ -1,6 +1,6 @@
 # Competition
 
-# С:
+# Version 3.rar
 <pre>
-1
+23.08.2018
 </pre>
